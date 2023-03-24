@@ -1,0 +1,13 @@
+{
+    "employees": [
+        { 
+        "id" : 1, 
+        "name": "Emmy", 
+        "email": "emmy@gmail.com", 
+        "taskTitle": "React", 
+        "description": "React practical", 
+        "action": ""
+        }
+    ]
+}
+
